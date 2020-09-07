@@ -39,3 +39,9 @@
 * Composer
 
 * NPM
+
+## Admin Credentials
+
+* Email: admin@example.com
+
+* Password: password
