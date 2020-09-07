@@ -1,5 +1,6 @@
 # User Management System
 <img src="./public/screenshots/admin-dashboard.png" alt="Screenshot">
+
 ## Setup Instructions
 
 1. Clone Repository `git clone https://github.com/tridibdawn/User-Management-System.git`
